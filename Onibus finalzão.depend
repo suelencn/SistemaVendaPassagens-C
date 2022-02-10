@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636398535 source:c:\users\alunos\desktop\suelen\onibus finalzão\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
